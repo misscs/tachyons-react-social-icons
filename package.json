@@ -1,6 +1,6 @@
 {
   "name": "tachyons-react-social-icons",
-  "version": "2.8.3",
+  "version": "2.8.4",
   "description": "Beautiful, easy svg social icons in React with Tacyhons. No inline styles. AMP compliant.",
   "main": "./lib/react-social-icons.js",
   "scripts": {
